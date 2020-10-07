@@ -24,7 +24,7 @@ python3 sky.py
 ## Listener
 ![androsky](https://github.com/zulfi0/androsky/blob/master/sc/listener.png)
 
-## Fiture
+## Feature
 ![androsky](https://github.com/zulfi0/androsky/blob/master/sc/meterpreter.png "get androsky")
 * autostart after reboot
 * support multi client
