@@ -6,7 +6,7 @@ androsky is androRAT recoded see the original here : (https://github.com/karma98
 ## Installation
 ```
 git clone https://github.com/zulfi0/androsky.git
-python -m pip install colorama
+python3 -m pip install colorama
 apt install openjdk-8-jdk 
 ```
 ## how to run
