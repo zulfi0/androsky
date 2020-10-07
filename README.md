@@ -9,7 +9,7 @@ git clone https://github.com/zulfi0/androsky.git
 python3 -m pip install colorama
 apt install openjdk-8-jdk 
 ```
-## how to run
+## Usage
 simply type
 ```
 python3 sky.py
